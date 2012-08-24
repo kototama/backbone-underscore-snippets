@@ -21,6 +21,8 @@ ${2:ns}.${3:name} = Backbone.View.extend(
 
      $6: function() {
          $0
+
+         return false;
      }
 
     }
